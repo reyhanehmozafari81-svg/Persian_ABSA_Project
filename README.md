@@ -65,4 +65,3 @@ according to the available data and training configuration.
 - Adding more product categories
 - Improving model evaluation
 - Deploying the system as a web or mobile application
-- 
