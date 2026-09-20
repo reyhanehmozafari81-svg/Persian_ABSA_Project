@@ -1,0 +1,9 @@
+torch
+transformers
+accelerate
+scikit-learn
+sentencepiece
+pandas
+numpy
+matplotlib
+ipywidgets
